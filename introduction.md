@@ -56,5 +56,3 @@ This part explores how to identify user interests—like machine learning, finan
 The introduction wraps up by stating that the book will guide you step by step from scratch. You’ll build your own data science tools using Python—without relying on libraries like Pandas or Scikit-learn. The goal is to understand the foundations deeply.
 
 ---
-
-This introduction is your roadmap into the world of data science. Using a fictional company (DataSciencester), the book shows how data can solve real problems—from identifying key users to analyzing salaries and interests. You’ll write code yourself to understand everything from the ground up.
