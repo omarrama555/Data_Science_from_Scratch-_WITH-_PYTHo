@@ -51,8 +51,3 @@ This part explores how to identify user interests—like machine learning, finan
 ### How?
 - Use text analysis on posts and comments to extract topics.
 - Classify these topics and recommend personalized content or training.
-
-## 9. Onward
-The introduction wraps up by stating that the book will guide you step by step from scratch. You’ll build your own data science tools using Python—without relying on libraries like Pandas or Scikit-learn. The goal is to understand the foundations deeply.
-
----
